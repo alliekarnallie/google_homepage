@@ -1,0 +1,36 @@
+.google_image {
+    padding-left: 38%;
+    padding-top: 15%;
+}
+
+.searchbar {
+    padding-left: 30%;
+}
+
+.searchbar input {
+    padding-left: 43%;
+    border: 1px solid lightgray;
+    height: 50%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+    padding-inline-end: 10px;
+  }
+
+  .footer {
+      padding-top: 20%;
+      bottom: 0;
+      padding-inline-end: 10px;
+  }
+
+  .buttons {
+      padding-left: 40%;
+      padding-top: 20px;
+  }
